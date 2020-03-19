@@ -1,2 +1,4 @@
-# TMAB1920
-TMAB1920 Lab Classes
+# TMAB1920 Lab Classes
+
+P02 - Instalação de GROMACS e primeiros comandos em Linux
+
